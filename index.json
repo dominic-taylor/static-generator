@@ -1,0 +1,9 @@
+{
+  "title": "The index page",
+  "version": "1.0.0",
+  "description": "",
+  "body": {
+    "h1": "My First Post",
+    "p": "A lorem upsim upsum dupsum"
+  }
+}
